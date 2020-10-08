@@ -1,3 +1,4 @@
+
 body{ 
     margin: 0;
 	padding: 0;
@@ -8,7 +9,20 @@ body{
     flex-direction: column;
 }
 
+/* .container{
+    height: 100%;
+    background-image:url(./images/82861.jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+} */
 
+
+ /*134*/
 .search--container{
     height: 100%;
     background-image: url(./images/8286.jpg);
